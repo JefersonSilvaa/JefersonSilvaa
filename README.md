@@ -29,27 +29,6 @@
     <img align_items="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align_items="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <div>
-
------
-
-### 📚Estatísticas do Github:
-
-
-![Jeferson Silvaa GitHub stats](https://github-readme-stats.vercel.app/api?username=JefersonSilvaa&show_icons=true&theme=dark)
-
-![Jeferson silvaa](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonSilvaa&langs_count=8&theme=dark)
-
------
-
-### 🖥️💾Tecnologias que eu uso no meu dia!!!
-
-<div style="display: inline_block"><br/>
-    <img align_items="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img align_items="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align_items="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align_items="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<div>
-
 -----
 
 ### ⭐️Um universo mágico pode nascer de pequenas ideias!⭐️
