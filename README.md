@@ -13,11 +13,6 @@
 ------
 ### 📚Estatísticas do Github:
 
-
-![Jeferson Silvaa GitHub stats](https://github-readme-stats.vercel.app/api?username=JefersonSilvaa&show_icons=true&theme=dark)
-
-![Jeferson silvaa](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonSilvaa&langs_count=8&theme=dark)
-
 ------------
 
 ### 🖥️💾Tecnologias que eu uso no meu dia!!!
