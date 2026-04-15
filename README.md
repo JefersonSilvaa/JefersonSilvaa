@@ -1,28 +1,57 @@
-### Olá! Eu sou o jeferson Alexandre!🌱Seja bem vindo(a) ao meu perfil GitHub! 👋🏻
+# 👋 Olá, eu sou o Jeferson Silva
 
-💫#desenvolvimentoweb, #front-end e #tecnologia
+Desenvolvedor apaixonado por tecnologia, sempre buscando aprender algo novo e melhorar um pouco a cada dia.  
+Trabalho principalmente com desenvolvimento web, usando **React**, **Node.js** e **bancos de dados relacionais** como **MySQL**.
 
-------
+---
 
-### 🌐Redes Sociais:
+## 📊 Minhas estatísticas
 
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jefersonalexandre15/)
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-alexandre-6ab95533b/)
-[![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/mu/mp/910/#tl/priority/%5Esmartlabel_personal)
+<div align="center">
 
-------
-### 📚Estatísticas do Github:
+  <a href="https://github.com/JefersonSilvaa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JefersonSilvaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/JefersonSilvaa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonSilvaa&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 
-------------
+</div>
 
-### 🖥️💾Tecnologias que eu uso no meu dia!!!
+---
 
-<div style="display: inline_block"><br/>
-    <img align_items="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img align_items="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align_items="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align_items="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<div>
+## 🧠 Tecnologias que uso no meu dia a dia
 
-------
-### ⭐️Um universo mágico pode nascer de pequenas ideias!⭐️
+<div style="display: inline_block"><br>
+  <!-- Frontend -->
+  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  
+  <!-- Backend -->
+  <img align="center" alt="NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+
+  <!-- Banco de Dados -->
+  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+
+  <!-- Outros (adicione/remova conforme seu dia a dia) -->
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</div>
+
+---
+
+## 🚀 Um pouco sobre mim
+
+- 💻 Focado em desenvolvimento web (frontend e backend)
+- 🧩 Gosto de aprender novas tecnologias e boas práticas
+- 📚 Sempre estudando para melhorar lógica de programação, arquitetura e qualidade de código
+- 🤝 Aberto a colaborar em projetos interessantes e desafiadores
+
+---
+
+## 📫 Como me encontrar
+
+- GitHub: [@JefersonSilvaa](https://github.com/JefersonSilvaa)
