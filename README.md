@@ -16,6 +16,12 @@ Trabalho principalmente com desenvolvimento web, usando **React**, **Node.js** e
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonSilvaa&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 
+  <br/>
+
+  <a href="https://github.com/JefersonSilvaa">
+    <img src="https://streak-stats.demolab.com?user=JefersonSilvaa&theme=tokyonight&hide_border=false&locale=pt_BR"/>
+  </a>
+
 </div>
 
 ---
